@@ -1,0 +1,3 @@
+log.txt
+
+Your name is Jeff, you are -858993460 years old, and your username is	.
