@@ -1,6 +1,3 @@
 ﻿  main.cpp
-c:\users\edonkulation\source\repos\daily exercises\daily-exercises\r_dailyprogrammer easy challenge 2\r_dailyprogrammer daily challenge 2\main.cpp(30): warning C4101: 'mass': unreferenced local variable
-c:\users\edonkulation\source\repos\daily exercises\daily-exercises\r_dailyprogrammer easy challenge 2\r_dailyprogrammer daily challenge 2\main.cpp(31): warning C4101: 'acceleration': unreferenced local variable
-c:\users\edonkulation\source\repos\daily exercises\daily-exercises\r_dailyprogrammer easy challenge 2\r_dailyprogrammer daily challenge 2\main.cpp(29): warning C4101: 'force': unreferenced local variable
   r_dailyprogrammer daily challenge 2.vcxproj -> C:\Users\eDONKulation\Source\Repos\Daily Exercises\Daily-Exercises\r_dailyprogrammer easy challenge 2\Debug\r_dailyprogrammer easy challenge 2.exe
   r_dailyprogrammer daily challenge 2.vcxproj -> C:\Users\eDONKulation\Source\Repos\Daily Exercises\Daily-Exercises\r_dailyprogrammer easy challenge 2\Debug\r_dailyprogrammer easy challenge 2.pdb (Partial PDB)
